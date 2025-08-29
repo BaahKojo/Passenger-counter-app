@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-image: url(img/bg.jpeg);
+    background-size: cover;
+    text-align: center;
+}
+
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: green;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#save-el {
+    font-weight: bold;
+}
